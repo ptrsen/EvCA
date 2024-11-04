@@ -1,7 +1,23 @@
-# Star App
+# Getting Started
 
-### `yarn install`
-### `yarn start`
-### `yarn build`
+**Prerequisites:**
+
+* Node.js and npm (or yarn) installed.
+
+**Installation:**
+
+1. Clone this repository:
+2. Install dependencies: 
+
+```bash 
+	yarn install
+	 
+**Run:**
+3. Running the Application: 
+
+```bash 
+	yarn start 
+
+
 
 
