@@ -11,13 +11,15 @@
 
 ```bash 
 	yarn install
+```
 	 
 **Run:**
+
 3. Running the Application: 
 
 ```bash 
 	yarn start 
-
+```
 
 
 
